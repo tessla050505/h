@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> DOTA 2 GUIDES&FORUM</title>
+<link rel="stylesheet" href="style.css" type="text/css"/>
+</head>
+<style>
+  body {
+    background-image: url('фон для текста2.jpg');
+    background-attachment: fixed;
+  }
+</style>
+<p align=center>
+<h1 align=center style="font-family:Comic Sans MS;"><a class="css" href=https://tessla050505.github.io/d/ target="_blank">DOTA 2 GUIDES&FORUM</a></h1></font>
+<font color="black"><h1 align=center style="font-family:Comic Sans MS;">ГЕРОИ</h1></font>
+<p align=center>
+<font color="3f3fb5"><style="font-family:Tw Cen MT Condensed Extra Bold;"</font>
+<font size=+0.1</font>
+<h1>
+<ol type =1>
+<font color="black"><h1 align=center style="font-family:Comic Sans MS;">В Dota 2 на данный момент 126 героев. И каждый герой имеется свой лор(историю о своем появлении)</h1></font>
+<font color="black"><h1 align=center style="font-family:Comic Sans MS;">Все герои в Dota 2 делятся на три основных типа: Сила, Ловкость и Интеллект.</h1></font>
+<font color="black"><h1 align=center style="font-family:Comic Sans MS;">АТРИБУТ СИЛА</h1> </font>
+<p align=center> <img src="силаicon.jpg" alt="СИЛА" width="50" height="50"></p>
+<img src="алхимик.jpg" alt="СИЛА" width="50" height="50">
+<img src="axeicon.jpg" alt="СИЛА" width="50" height="50">
+<img src="bristalbackicon.jpg" alt="СИЛА" width="50" height="50">
+<img src="centauricon.jpg" alt="СИЛА" width="50" height="50">
+<img src="chaosknighticon.jpg" alt="СИЛА" width="50" height="50">
+<img src="dawnbreakericon.jpg" alt="СИЛА" width="50" height="50">
+<img src="doomicon.jpg" alt="СИЛА" width="50" height="50">
+<img src="dragonknighticon.jpg" alt="СИЛА" width="50" height="50">
+<img src="earthspiriticon.jpg" alt="СИЛА" width="50" height="50">
+<img src="earthshakericon.jpg" alt="СИЛА" width="50" height="50">
+<img src="eldertitanicon.jpg" alt="СИЛА" width="50" height="50">
+<img src="huskaricon.jpg" alt="СИЛА" width="50" height="50">
+<img src="kunkaicon.jpg" alt="СИЛА" width="50" height="50">
+<img src="legioncommandericon.jpg" alt="СИЛА" width="50" height="50">
+<img src="lifestealericon.jpg" alt="СИЛА" width="50" height="50">
+<img src="marsicon.jpg" alt="СИЛА" width="50" height="50">
+<img src="nightstalkericon.jpg" alt="СИЛА" width="50" height="50">
+<img src="orgemagiicon.jpg" alt="СИЛА" width="50" height="50">
+<img src="omniknighticon.jpg" alt="СИЛА" width="50" height="50">
+<img src="primalbeasticon.jpg" alt="СИЛА" width="50" height="50">
+<img src="pudgeicon.jpg" alt="СИЛА" width="50" height="50">
+<img src="slardaricon.jpg" alt="СИЛА" width="50" height="50">
+<img src="spiritbreakericon.jpg" alt="СИЛА" width="50" height="50">
+<img src="svenicon.jpg" alt="СИЛА" width="50" height="50">
+<img src="tidehuntericon.jpg" alt="СИЛА" width="50" height="50">
+<img src="timbersawicon.jpg" alt="СИЛА" width="50" height="50">
+<img src="tinyicon.jpg" alt="СИЛА" width="50" height="50">
+<img src="treantprotectoricon.jpg" alt="СИЛА" width="50" height="50">
+<img src="tuskicon.jpg" alt="СИЛА" width="50" height="50">
+<img src="underlordicon.jpg" alt="СИЛА" width="50" height="50">
+<img src="undyingicon.jpg" alt="СИЛА" width="50" height="50">
+<img src="wraithkingicon.jpg" alt="СИЛА" width="50" height="50">
+<font color="black"><h1 align=center style="font-family:Comic Sans MS;">АТРИБУТ ЛОВКОСТЬ</h1> </font>
+<p align=center> <img src="ловкостьicon.jpg" alt="ЛОВКОСТЬ" width="50" height="50"></p>
+<img src="antimageicon.jpg" alt="ЛОВКОСТЬ" width="50" height="50">
+<img src="arcwardenicon.jpg" alt="ЛОВКОСТЬ" width="50" height="50">
+<img src="bloodseekericon.jpg" alt="ЛОВОКСТЬ" width="50" height="50">
+<img src="bountyhuntericon.jpg" alt="ЛОВКОСТЬ" width="50" height="50">
+<img src="clinkzicon.jpg" alt="ЛОВКОСТЬ" width="50" height="50">
+<img src="drowrangericon.jpg" alt="ЛОВОКСТЬ" width="50" height="50">
+<img src="emberspiriticon.jpg" alt="ЛОВКОСТЬ" width="50" height="50">
+<img src="facelessvoidicon.jpg" alt="ЛОВКОСТЬ" width="50" height="50">
+<img src="gyrocoptericon.jpg" alt="ЛОВОКСТЬ" width="50" height="50">
+<img src="hoodwinkicon.jpg" alt="ЛОВКОСТЬ" width="50" height="50">
+<img src="juggernauticon.jpg" alt="ЛОВКОСТЬ" width="50" height="50">
+<img src="kezicon.jpg" alt="ЛОВОКСТЬ" width="50" height="50">
+<img src="lunaicon.jpg" alt="ЛОВКОСТЬ" width="50" height="50">
+<img src="medusaicon.jpg" alt="ЛОВКОСТЬ" width="50" height="50">
+<img src="meepoicon.jpg" alt="ЛОВОКСТЬ" width="50" height="50">
+<img src="monkeykingicon.jpg" alt="ЛОВКОСТЬ" width="50" height="50">
+<img src="morphlingicon.jpg" alt="ЛОВКОСТЬ" width="50" height="50">
+<img src="nagasirenicon.jpg" alt="ЛОВОКСТЬ" width="50" height="50">
+<img src="phantomassassinicon.jpg" alt="ЛОВКОСТЬ" width="50" height="50">
+<img src="phantomlancericon.jpg" alt="ЛОВКОСТЬ" width="50" height="50">
+<img src="razoricon.jpg" alt="ЛОВОКСТЬ" width="50" height="50">
+<img src="rikiicon.jpg" alt="ЛОВКОСТЬ" width="50" height="50">
+<img src="shadowfiendicon.jpg" alt="ЛОВКОСТЬ" width="50" height="50">
+<img src="slarkicon.jpg" alt="ЛОВОКСТЬ" width="50" height="50">
+<img src="snipericon.jpg" alt="ЛОВКОСТЬ" width="50" height="50">
+<img src="spectreicon.jpg" alt="ЛОВКОСТЬ" width="50" height="50">
+<img src="templarassassinicon.jpg" alt="ЛОВКОСТЬ" width="50" height="50">
+<img src="terrorbladeicon.jpg" alt="ЛОВКОСТЬ" width="50" height="50">
+<img src="trollwarlordicon.jpg" alt="ЛОВКОСТЬ" width="50" height="50">
+<img src="ursaicon.jpg" alt="ЛОВОКСТЬ" width="50" height="50">
+<img src="vipericon.jpg" alt="ЛОВКОСТЬ" width="50" height="50">
+<img src="weavericon.jpg" alt="ЛОВКОСТЬ" width="50" height="50">
+<font color="black"><h1 align=center style="font-family:Comic Sans MS;">АТРИБУТ ИНТЕЛЛЕКТ</h1> </font>
+<p align=center> <img src="интелектicon.jpg" alt="ИНТЕЛЛЕКТ" width="50" height="50"></p>
+<img src="ancientapparationicon.jpg" alt="ИНТЕЛЛЕКТ" width="50" height="50">
+<img src="crystalmaidenicon.jpg" alt="ИНТЕЛЛЕКТ" width="50" height="50">
+<img src="deathpropheticon.jpg" alt="ИНТЕЛЛЕКТ" width="50" height="50">
+<img src="disruptoricon.jpg" alt="ИНТЕЛЛЕКТ" width="50" height="50">
+<img src="enchantressicon.jpg" alt="ИНТЕЛЛЕКТ" width="50" height="50">
+<img src="grimstrokeicon.jpg" alt="ИНТЕЛЛЕКТ" width="50" height="50">
+<img src="keeperofthelighticon.jpg" alt="ИНТЕЛЛЕКТ" width="50" height="50">
+<img src="leshracicon.jpg" alt="ИНТЕЛЛЕКТ" width="50" height="50">
+<img src="lichicon.jpg" alt="ИНТЕЛЛЕКТ" width="50" height="50">
+<img src="linaicon.jpg" alt="ИНТЕЛЛЕКТ" width="50" height="50">
+<img src="lionicon.jpg" alt="ИНТЕЛЛЕКТ" width="50" height="50">
+<img src="muertaicon.jpg" alt="ИНТЕЛЛЕКТ" width="50" height="50">
+<img src="nature'sprotheticon.jpg" alt="ИНТЕЛЛЕКТ" width="50" height="50">
+<img src="necrophosicon.jpg" alt="ИНТЕЛЛЕКТ" width="50" height="50">
+<img src="oracleicon.jpg" alt="ИНТЕЛЛЕКТ" width="50" height="50">
+<img src="outworlddestroyericon.jpg" alt="ИНТЕЛЛЕКТ" width="50" height="50">
+<img src="puckicon.jpg" alt="ИНТЕЛЛЕКТ" width="50" height="50">
+<img src="pugnaicon.jpg" alt="ИНТЕЛЛЕКТ" width="50" height="50">
+<img src="queenofpainicon.jpg" alt="ИНТЕЛЛЕКТ" width="50" height="50">
+<img src="ringmastericon.jpg" alt="ИНТЕЛЛЕКТ" width="50" height="50">
+<img src="rubickicon.jpg" alt="ИНТЕЛЛЕКТ" width="50" height="50">
+<img src="shadowdemonicon.jpg" alt="ИНТЕЛЛЕКТ" width="50" height="50">
+<img src="shadowshamanicon.jpg" alt="ИНТЕЛЛЕКТ" width="50" height="50">
+<img src="silencericon.jpg" alt="ИНТЕЛЛЕКТ" width="50" height="50">
+<img src="skywrathmageicon.jpg" alt="ИНТЕЛЛЕКТ" width="50" height="50">
+<img src="stormspiriticon.jpg" alt="ИНТЕЛЛЕКТ" width="50" height="50">
+<img src="tinkericon.jpg" alt="ИНТЕЛЛЕКТ" width="50" height="50">
+<img src="warlockicon.jpg" alt="ИНТЕЛЛЕКТ" width="50" height="50">
+<img src="witchdoctoricon.jpg" alt="ИНТЕЛЛЕКТ" width="50" height="50">
+<img src="zeusicon.jpg" alt="ИНТЕЛЛЕКТ" width="50" height="50">
+<font color="black"><h1 align=center style="font-family:Comic Sans MS;">АТРИБУТ УНИВЕРСАЛ</h1> </font>
+<p align=center> <img src="универсалicon.jpg" alt="УНИВЕРСАЛ" width="50" height="50"></p>
+<img src="abaddonicon.jpg" alt="УНИВЕРСАЛ" width="50" height="50">
+<img src="baneicon.jpg" alt="УНИВЕРСАЛ" width="50" height="50">
+<img src="batridericon.jpg" alt="УНИВЕРСАЛ" width="50" height="50">
+<img src="beastmastericon.jpg" alt="УНИВЕРСАЛ" width="50" height="50">
+<img src="brewmastericon.jpg" alt="УНИВЕРСАЛ" width="50" height="50">
+<img src="broodmothericon.jpg" alt="УНИВЕРСАЛ" width="50" height="50">
+<img src="chenicon.jpg" alt="УНИВЕРСАЛ" width="50" height="50">
+<img src="clockwerkicon.jpg" alt="УНИВЕРСАЛ" width="50" height="50">
+<img src="darkseericon.jpg" alt="УНИВЕРСАЛ" width="50" height="50">
+<img src="darkwillowicon.jpg" alt="УНИВЕРСАЛ" width="50" height="50">
+<img src="dazzleicon.jpg" alt="УНИВЕРСАЛ" width="50" height="50">
+<img src="enigmaicon.jpg" alt="УНИВЕРСАЛ" width="50" height="50">
+<img src="invokericon.jpg" alt="УНИВЕРСАЛ" width="50" height="50">
+<img src="ioicon.jpg" alt="УНИВЕРСАЛ" width="50" height="50">
+<img src="lonedruidicon.jpg" alt="УНИВЕРСАЛ" width="50" height="50">
+<img src="lycanicon.jpg" alt="УНИВЕРСАЛ" width="50" height="50">
+<img src="magnusicon.jpg" alt="УНИВЕРСАЛ" width="50" height="50">
+<img src="marciicon.jpg" alt="УНИВЕРСАЛ" width="50" height="50">
+<img src="miranaicon.jpg" alt="УНИВЕРСАЛ" width="50" height="50">
+<img src="nyxassassinicon.jpg" alt="УНИВЕРСАЛ" width="50" height="50">
+<img src="pangoliericon.jpg" alt="УНИВЕРСАЛ" width="50" height="50">
+<img src="phoenixicon.jpg" alt="УНИВЕРСАЛ" width="50" height="50">
+<img src="sandkingicon.jpg" alt="УНИВЕРСАЛ" width="50" height="50">
+<img src="snapfireicon.jpg" alt="УНИВЕРСАЛ" width="50" height="50">
+<img src="techiesicon.jpg" alt="УНИВЕРСАЛ" width="50" height="50">
+<img src="vengefulspiriticon.jpg" alt="УНИВЕРСАЛ" width="50" height="50">
+<img src="venomancericon.jpg" alt="УНИВЕРСАЛ" width="50" height="50">
+<img src="visageicon.jpg" alt="УНИВЕРСАЛ" width="50" height="50">
+<img src="voidspiriticon.jpg" alt="УНИВЕРСАЛ" width="50" height="50">
+<img src="windrangericon.jpg" alt="УНИВЕРСАЛ" width="50" height="50">
+<img src="winterwyvernicon.jpg" alt="УНИВЕРСАЛ" width="50" height="50">
+<p align=center>
+<table>
+<font color="black"><h1 align=center style="font-family:Comic Sans MS;">Каждый тип имеет свои преимущества и недостатки, этот показатель меняется от меты и патча,а также герои каждого типа подходят для разных ролей в команде.
+Герои силы обычно обладают большим запасом здоровья и брони, что делает их танками в команде. Они также могут наносить большой урон в ближнем бою.
+Герои ловкости обычно обладают высокой скоростью атаки и передвижения, что делает их отличными керри в команде. Они также могут наносить большой урон с помощью автоатак.
+Герои интеллекта обычно обладают мощными магическими способностями, что делает их отличными саппортами или мидерами в команде. Они также могут контролировать врагов и лечить союзников.
+Каждый герой в Dota 2 имеет свои уникальные способности, которые делают его особенным. Некоторые герои могут наносить большой урон, другие могут лечить союзников, а третьи могут контролировать врагов</h1></font>
+</table>
+<table>
+<body link="black" vlink="black">
+<h1 align=center style="font-family:Comic Sans MS;"><a class="css" href=https://tessla050505.github.io/g/ target="_blank">герои</a></h1></font>
+<h1 align=center style="font-family:Comic Sans MS;"><a class="css" href=позиции.html target="_blank">позиции</a></h1></font>
+<h1 align=center style="font-family:Comic Sans MS;"><a class="css" href=предметы.html target="_blank">предметы</a></h1></font>
+<h1 align=center style="font-family:Comic Sans MS;"><a class="css" href=гайды.html target="_blank">гайды</a></h1></font>
+</table>
+</body>
+</body>
+</html>
